@@ -33,7 +33,7 @@
 
 最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
 
-![image-20250708152416614](./README/image-20250708152416614.png)
+![image-20250708152416614](README/image-20250708152416614.png)
 
 ## 许可
 
