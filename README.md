@@ -3,9 +3,8 @@
 <div align="center">
     <h1>Excel批量生成MobaXterm连接会话</h1>
 </div>
-
 <div align="center">
-    <a href="./README.md"><img src="https://img.shields.io/badge/README-EN-red"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/README-中文-red"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-yellow"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,14 +28,18 @@
 
 ![image-20250708153758087](README/image-20250708153758087.png)
 
-最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
-
-![image-20250708154050294](README/image-20250708154050294.png)
-
 1. 模板最后一项为空则采用远程IP的22端口连接
 2. 模板最后一项非空则采用远程穿透IP、端口连接
 
 ![image-20250708153454194](README/image-20250708153454194.png)
+
+
+
+最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
+
+![image-20250708154050294](README/image-20250708154050294.png)
+
+
 
 ## 许可
 
