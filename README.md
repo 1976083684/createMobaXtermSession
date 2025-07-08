@@ -27,9 +27,7 @@
 2. 输入要连接的用户名
 3. 输入项目名称，即最外层文件夹名
 
-![image-20250708135351225](./README/image-20250708135351225.png)
-
-
+![image-20250708153758087](README/image-20250708153758087.png)
 
 最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
 
