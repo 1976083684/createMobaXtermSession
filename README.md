@@ -29,6 +29,12 @@
 
 ![image-20250708135351225](./README/image-20250708135351225.png)
 
+
+
+最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
+
+![image-20250708152416614](README/image-20250708152416614.png)
+
 ## 许可
 
 createMobaXtermSession是根据Apache-2.0许可证提供的 - 有关详细信息，请参阅[许可证文件](./LICENSE)。
