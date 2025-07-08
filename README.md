@@ -19,7 +19,15 @@
 
 ## 快速使用
 
+请到发布页面下载对应的安装包：[Release page](https://github.com/1976083684/createMobaXtermSession/releases)<br>
 
+运行程序后执行3个步骤即可生成：
+
+1. 输入模板文件路径
+2. 输入要连接的用户名
+3. 输入项目名称，即最外层文件夹名
+
+![image-20250708135351225](D:\st\python\createMobaXtermSession\README\image-20250708135351225.png)
 
 ## 许可
 
