@@ -31,7 +31,7 @@
 
 最后将生成的`MobaXterm Sessions.mxtsessions`文件导入MobaXterm后如下：
 
-![image-20250708152416614](README/image-20250708152416614.png)
+![image-20250708154050294](README/image-20250708154050294.png)
 
 1. 模板最后一项为空则采用远程IP的22端口连接
 2. 模板最后一项非空则采用远程穿透IP、端口连接
